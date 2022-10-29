@@ -1,0 +1,1 @@
+FROM bitnami/elasticsearch:5.6.4
